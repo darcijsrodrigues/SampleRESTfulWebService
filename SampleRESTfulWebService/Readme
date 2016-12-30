@@ -1,0 +1,12 @@
+SampleRESTfulWedService
+-Adicionar biblioteca Json.Net
+-Adicionar microsoft.Net.Http
+
+-Criar pasta Data
+-Criar entidade Book
+-Criar BookManager
+    -Criar Client
+    -Criar os métodos GET, POST, PUT, DELETE
+-Criar page MainPage
+    -criar os eventos da tela: OnRefresh, OnAddNewBook, OnEditBook, OnDeleteBook
+-Criar page AddEditBookPage    

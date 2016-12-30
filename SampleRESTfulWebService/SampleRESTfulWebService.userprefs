@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{D2B6D320-5CDF-4D4E-9F52-4AE7A35046C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleRESTfulWebService/Views/MainPage.xaml.cs">
+    <Files>
+      <File FileName="SampleRESTfulWebService/Views/MainPage.xaml.cs" Line="34" Column="5" />
+      <File FileName="SampleRESTfulWebService/Views/MainPage.xaml" Line="27" Column="86" />
+      <File FileName="SampleRESTfulWebService/Views/AddEditBookPage.cs" Line="9" Column="39" />
+      <File FileName="SampleRESTfulWebService/App.xaml.cs" Line="11" Column="4" />
+      <File FileName="SampleRESTfulWebService/Data/BookManager.cs" Line="12" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleRESTfulWebService" expanded="True">
+            <Node name="SampleRESTfulWebService" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True">
+                  <Node name="MainPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="SampleRESTfulWebServicePage.xaml" expanded="True" />
+            </Node>
+            <Node name="SampleRESTfulWebService.iOS" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../HD_DarciJr/bkp/Projects/Dietando/App/Dietando/Dietando/Api/ApiCall.cs" line="26" offsetX="703" offsetY="330" expression="client.DefaultRequestHeaders" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.SampleRESTfulWebService.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BF883419-3745-42DB-8DE7-5E65460DE4B3" />
+</Properties>
